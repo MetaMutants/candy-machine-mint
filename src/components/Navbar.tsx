@@ -30,13 +30,13 @@ const NavBar = (props: NavBarProps) => {
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="ml-auto">
                 <Nav.Link href="#about" className="link-style linkh">
-                  About
+                  Story
                 </Nav.Link>
                 <Nav.Link href="#story" className="link-style linkh">
-                  The Story
+                  About
                 </Nav.Link>
                 <Nav.Link href="#team" className="link-style linkh">
-                  The Team
+                  Team
                 </Nav.Link>
                 <Nav.Link className="link-style btn btn-outline-warning">
                   {<ConnectionMintButton

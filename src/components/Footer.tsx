@@ -26,7 +26,7 @@ const Footer = (props: FooterProps) => {
               <div className="mbc h-100 d-flex justify-content-center align-items-center">
                 <div className="">
                 <span className="font-weight-bold">
-                  © {new Date().getFullYear()} . All rights reserved.
+                  © {new Date().getFullYear()} All Rights Reserved.
                 </span>
                   <br />
                     {props.footerText}
