@@ -37,7 +37,7 @@ const Home = (props: HomeProps) => {
         <Story title={Config.story.title} text={Config.story.text}/>
         <RoadMapContainer roadMapTitle={'Roadmap'}/>
         <TeamContainer teamName={'Of MetaMutants'} teamTitle={'Creators'}/>
-        <Footer footerText={'MetaMutants'}/>
+        <Footer footerText={'MetaMutants created by Jordan and Zach'}/>
       </div>
   );
 }
