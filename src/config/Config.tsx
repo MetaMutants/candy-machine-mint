@@ -24,7 +24,7 @@ const Config = {
   },
   story: {
     title: 'About',
-    text: 'MetaMutants was created by two brothers named Zach (14) and Jordan (16). At 12, Jordan first became interested in learing about blockchain technology. During this time he used his desktop to mine Bitcoin. Zach became interested in digital art and cryptocurrency at 13, launching his brand ArtByAHuman. The 5,000 MetaMutants will be divided into 2 drops. The first 2,500 on Solana and the remaining 2,500 on Ethereum. All Solana MetaMutants holders will be whitelisted for the Ethereum drop. MetaMutants goal is the inspire younger teens to get into blockchain technology, and to show anyone can create a NFT project. 10% of all sales will go towards Save the Children Charity.'
+    text: 'MetaMutants was created by two brothers named Zach (14) and Jordan (16). At 12, Jordan first became interested in learing about blockchain technology. During this time he used his desktop to mine Bitcoin. Zach became interested in digital art and cryptocurrency at 13, launching his brand ArtByAHuman. The 5,000 MetaMutants will be divided into 2 drops. The first 2,500 on Solana and the remaining 2,500 on Ethereum. All Solana MetaMutants holders will be whitelisted for the Ethereum drop. MetaMutants goal is the inspire younger teens to get into blockchain technology, and to show anyone can create a NFT project. 10% of all sales will go towards Save the Children Charity. Launch Date TBD!'
   },
   roadMap: [
     {
