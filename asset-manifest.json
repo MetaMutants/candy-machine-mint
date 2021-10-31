@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b92f5a84.chunk.css",
-    "main.js": "/static/js/main.22eb29b6.chunk.js",
-    "main.js.map": "/static/js/main.22eb29b6.chunk.js.map",
+    "main.js": "/static/js/main.4ca4faff.chunk.js",
+    "main.js.map": "/static/js/main.4ca4faff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.08a4df4f.js",
     "runtime-main.js.map": "/static/js/runtime-main.08a4df4f.js.map",
     "static/css/2.29c6ae1a.chunk.css": "/static/css/2.29c6ae1a.chunk.css",
@@ -15,6 +15,7 @@
     "static/css/main.b92f5a84.chunk.css.map": "/static/css/main.b92f5a84.chunk.css.map",
     "static/js/2.c1b0089d.chunk.js.LICENSE.txt": "/static/js/2.c1b0089d.chunk.js.LICENSE.txt",
     "static/media/Logo white.23e6bb64.svg": "/static/media/Logo white.23e6bb64.svg",
+    "static/media/Medium.47dad125.svg": "/static/media/Medium.47dad125.svg",
     "static/media/icon_clyde_white_RGB.a4202270.svg": "/static/media/icon_clyde_white_RGB.a4202270.svg",
     "static/media/logo.656b839c.gif": "/static/media/logo.656b839c.gif",
     "static/media/main_banner_place_holder.c85eee2d.png": "/static/media/main_banner_place_holder.c85eee2d.png",
@@ -29,6 +30,6 @@
     "static/css/2.29c6ae1a.chunk.css",
     "static/js/2.c1b0089d.chunk.js",
     "static/css/main.b92f5a84.chunk.css",
-    "static/js/main.22eb29b6.chunk.js"
+    "static/js/main.4ca4faff.chunk.js"
   ]
 }
