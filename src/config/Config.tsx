@@ -4,8 +4,10 @@ import logo from '../images/nft/logo.gif';
 import nft1 from '../images/nft/nft_sample_1.gif';
 import teamMember1 from '../images/team/team_member_1.png';
 import teamMember2 from '../images/team/team_member_2.png';
+import teamMember3 from '../images/team/team_member_3.png';
 import twitterLogo from '../images/twitter/Logo white.svg';
 import discordLogo from '../images/discord/icon_clyde_white_RGB.svg';
+import MediumLogo from '../images/discord/Medium.png';
 
 const Config = {
   navbar: {
@@ -18,27 +20,55 @@ const Config = {
     backGroundImage: secondaryBanner,
   },
   about: {
-    name: 'MetaMutants',
+    name: 'MetaMartians',
     image: nft1,
-    text: 'MetaMutants once lived in harmony in Web2, but this harmony was short-lived. Everything changed when deciding to move to Web3 for a better future. The disagreement began on the superior blockchain to move to. The conflict split the MetaMutants into two groups: 5,000  that supported Solana and 5,000 that supported Ethereum. After a terrible civil war, half the population was eradicated. The two groups agreed for their civilization to coexist on both blockchains. This evenly split the Mutants 2,500 and 2,500 between Solana and Ethereum. By buying a MetaMutant on the Solana blockchain, you will be whitelisted to get a MetaMutant on the Ethereum blockchain in the future. Which blockchain do you support?'
+    text: 'MetaMartians once lived in harmony in Web2, but this harmony was short-lived. Everything changed when deciding to move to Web3 for a better future. The disagreement began on the superior blockchain to move to. The conflict split the Martians into two groups: 5,000  that supported Solana and 5,000 that supported Ethereum. After a terrible civil war, half the population was eradicated. The two groups agreed for their civilization to coexist on both blockchains. This evenly split the Martians 2,500 and 2,500 between Solana and Ethereum. By buying a MetaMartian on the Solana blockchain, you will be whitelisted to get a MetaMartian on the Ethereum blockchain in the future.'
   },
   story: {
     title: 'About',
-    text: 'MetaMutants was created by two brothers named Zach and Jordan. Jordan became interested in learing about blockchain technology while using his desktop to mine Bitcoin. Zach became interested in digital art and cryptocurrency, launching his brand ArtByAHuman. The 5,000 MetaMutants will be divided into 2 drops. The first 2,500 on Solana and the remaining 2,500 on Ethereum. All Solana MetaMutants holders will be whitelisted for the Ethereum drop. MetaMutants goal is the inspire younger teens to get into blockchain technology, and to show that anyone can create a NFT project. Launch Date TBD!'
+    text: 'Each MetaMartian NFT will be used as an exclusive access pass— to our community discord (unlockable content) AND irl events involving the innovations in blockchain technology, software, and coding. In the discord, Martians will be granted access to groups that empower youth creatives, and give a platform for our founders to educate and provide tutorials. These tutorials will allow you to create your own collection, code your own contract, and ultimately create your own community. Mint a a MetaMartian and join the youth movement of creators!'
   },
   roadMap: [
     {
       textLeft: '10%',
-      textRight: 'At 500 MetaMutants sold we will giveaway a 1/1 MetaMutant'
+      textRight: 'Web 3.0 tutorial video release (Discord) Bonus: Generating the metadata for images in collection'
+    },
+    {
+      textLeft: '20%',
+      textRight: 'Smart Contract tutorial video release (Discord) Bonus: uploading the collection to the blockchain'
+    },
+    {
+      textLeft: '30%',
+      textRight: 'IRL networking event: location TBD '
+    },
+    {
+      textLeft: '40%',
+      textRight: 'Community vote on purchase of NFT collectible created by a a young entrepreneur (discord will be loaded with information and education around the collectible— why its valuable, rarity relevances, token utility, etc)'
     },
     {
       textLeft: '50%',
-      textRight: 'At 1250 sold we will giveaway 10 SOL to a lucky MetaMutant Holder'
+      textRight: 'IRL networking party to celebrate whitelist backers and Ethereum minting CHARITY: 10k donation to Save the Children'
+    },
+    {
+      textLeft: '60%',
+      textRight: 'Exclusive Merch release by Cards and Culture'
+    },
+    {
+      textLeft: '70%',
+      textRight: 'Community vote on purchase of a historic collectible (cryptopunks, bored ape, doodles, etc)'
+    },
+    {
+      textLeft: '80%',
+      textRight: 'How to make a landing page, build a community, and deploy a contract tutorial (Discord)'
+    },
+    {
+      textLeft: '90%',
+      textRight: 'CONTEST: create your own artwork for the founders to pick a winner— winner gets to mint their contract with the founders and create video for YouTube, Twitch, etc'
     },
     {
       textLeft: '100%',
-      textRight: 'When sold out, we will give away 25 SOL and release our tutorial allowing anyone to create their own NFT collection on Solana. We will also release 2,500 MetaMutants on Ethereum at a later specified date'
-    }
+      textRight: 'GIVEAWAY— 50k in ETH, 10 NFT’s, charity donation of 25k possible tech conference on a larger regional location (New Orleans, Houston)'
+    },
   ],
   teamMembers: [
     {
@@ -46,14 +76,21 @@ const Config = {
       teamMemberName: "Jordan",
       teamMemberLink: "#",
       teamMemberTitle: "Developer",
-      teamMemberDescription: "Aspiring full stack developer"
+      teamMemberDescription: "16 year-old aspiring full stack developer"
     },
     {
       teamMemberImage: teamMember2,
       teamMemberName: "Zach",
       teamMemberLink: "#",
-      teamMemberTitle: "Artist and Creative Director",
-      teamMemberDescription: "Aspiring entrepreneur and artist"
+      teamMemberTitle: "Artist",
+      teamMemberDescription: "14 year-old aspiring entrepreneur and artist"
+    },
+    {
+      teamMemberImage: teamMember3,
+      teamMemberName: "Anthony",
+      teamMemberLink: "#",
+      teamMemberTitle: "Creative Director",
+      teamMemberDescription: "Founder of Cards and Culture and ex-professional MLB player"
     }
   ],
   footerLinks: [
@@ -64,6 +101,10 @@ const Config = {
     {
       image: discordLogo,
       link: 'https://discord.gg/u3c9Kf3Xmz'
+    },
+    {
+      image: MediumLogo,
+      link: 'https://metamutants.medium.com/'
     }
   ],
   footerText: "All rights reserved",

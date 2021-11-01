@@ -36,8 +36,8 @@ const Home = (props: HomeProps) => {
         <ShowCase backGroundImage={Config.showcaseSecondary.backGroundImage}/>
         <Story title={Config.story.title} text={Config.story.text}/>
         <RoadMapContainer roadMapTitle={'Roadmap'}/>
-        <TeamContainer teamName={'Of MetaMutants'} teamTitle={'Creators'}/>
-        <Footer footerText={'MetaMutants created by Jordan and Zach'}/>
+        <TeamContainer teamName={'Of MetaMartians'} teamTitle={'Creators'}/>
+        <Footer footerText={'MetaMartians created by Jordan and Zach'}/>
       </div>
   );
 }
